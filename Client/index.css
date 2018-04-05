@@ -1,0 +1,35 @@
+body {
+  color: #f8f8f8;
+
+  background-size:cover;
+  background-position: center;
+  font-family: Lato;
+}
+
+html {
+  height:100%;
+}
+
+h1 {
+  font-weight: 700;
+  font-size:7em;
+  letter-spacing: 0.2em;
+}
+
+p {
+  font-size:3em;
+}
+
+.w3-display-container mySlides {
+  width: 100;
+}
+
+hr {
+  width:400px;
+  border-top:1px solid #f8f8f8;
+  border-bottom:rgba(0,0,0,0.2);
+}
+
+.navbar .navbar-default {
+  background-color: black;
+}
